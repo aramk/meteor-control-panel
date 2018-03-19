@@ -1,3 +1,3 @@
 # meteor-control-panel
 
-A control panel to manage the a Meteor service
+A control panel to manage a Meteor service

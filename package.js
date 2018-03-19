@@ -1,6 +1,6 @@
 Package.describe({
   name: 'aramk:control-panel',
-  summary: 'A control panel to manage the a Meteor service',
+  summary: 'A control panel to manage a Meteor service',
   version: '1.0.0',
   git: 'https://github.com/aramk/meteor-control-panel.git'
 });
