@@ -16,6 +16,7 @@ Package.onUse(function(api) {
     'templating',
   ], 'client');
   api.use([
+    'ecmascript',
     'aramk:notifications@0.3.1'
   ], ['server', 'client']);
   api.addFiles([
